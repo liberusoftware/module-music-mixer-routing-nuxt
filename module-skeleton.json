@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-mixer-routing-nuxt",
+  "capabilityKey": "liberusoftware/music-mixer-routing",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-music-mixer-routing-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/music/nextjs/mixer-routing.md",
+  "presentationPlan": "projects/music/nuxt/mixer-routing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
